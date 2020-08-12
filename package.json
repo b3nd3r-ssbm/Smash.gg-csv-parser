@@ -1,0 +1,16 @@
+{
+	"name": "smash.gg-csv-to-json",
+	"version": "1.0.0",
+	"description": "GPL-3.0-or-later",
+	"main": "main.js",
+	"scripts": {
+		"start": "node main.js",
+		"build": "nexe"
+	},
+	"author": "b3nd3r-ssbm",
+	"dependencies": {
+	},
+	"devDependencies": {
+		"nexe": "^3.3.7"
+	}
+}
